@@ -1,2 +1,4 @@
 <?php
-echo "It works!";
+header("Location: shop.php");
+exit();
+?>
